@@ -18,7 +18,7 @@ df = pd.read_excel('Pandas-Example.xlsx', sheetname='Sheet1')
 
 print("The list of row indicies")
 print(df.index)
-print("The column headings")
+print("The Column Headings")
 print(df.columns)
 
 print("The 'Patient' column information:")
